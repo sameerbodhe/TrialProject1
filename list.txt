@@ -1,0 +1,11 @@
+ Volume in drive D has no label.
+ Volume Serial Number is 3EF5-3C82
+
+ Directory of D:\Projects\GitHubTrial
+
+15-05-2017  14:46    <DIR>          .
+15-05-2017  14:46    <DIR>          ..
+15-05-2017  14:46                 0 list.txt
+15-05-2017  11:39                76 Trial Text Doc.txt
+               2 File(s)             76 bytes
+               2 Dir(s)  126,133,719,040 bytes free
